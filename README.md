@@ -1,6 +1,2 @@
-# fullchat
+# fullchat2
 
-
-fullstack:
-- Backend : nodejs : expressjs
-- Frontent : 
